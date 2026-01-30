@@ -1,0 +1,62 @@
+[
+  {
+    "brand": "Bonanza Satrangi",
+    "category": "women",
+    "name": "Embroidered Khaddar 3PC - Maroon",
+    "original_price": "10,990",
+    "sale_price": "8,990",
+    "product_url": "https://beechtree.pk/products/bt3w22u80-mustard",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U80_1.jpg?v=1671535509&width=934"
+    ],
+    "details": ["Unstitched 3PC", "Fabric: Khaddar", "Color: Maroon"]
+  },
+  {
+    "brand": "Bonanza Satrangi",
+    "category": "men",
+    "name": "Men Formal Shirt - Sky",
+    "original_price": "4,490",
+    "sale_price": "3,490",
+    "product_url": "https://beechtree.pk/products/bt3w22u80-mustard",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U80_1.jpg?v=1671535509&width=934"
+    ],
+    "details": ["Slim Fit", "Fabric: Cotton", "Color: Sky Blue"]
+  },
+  {
+    "brand": "Bonanza Satrangi",
+    "category": "men",
+    "name": "Men Chinos - Camel",
+    "original_price": "5,990",
+    "sale_price": "4,490",
+    "product_url": "https://beechtree.pk/products/bt3w22u80-mustard",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U80_1.jpg?v=1671535509&width=934"
+    ],
+    "details": ["Regular Fit", "Color: Camel"]
+  },
+  {
+    "brand": "Bonanza Satrangi",
+    "category": "women (pret)",
+    "name": "Pret Kurti - Embroidered Black",
+    "original_price": "6,990",
+    "sale_price": "5,990",
+    "product_url": "https://beechtree.pk/products/bt3w22u80-mustard",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U80_1.jpg?v=1671535509&width=934"
+    ],
+    "details": ["Pret", "Color: Black", "Embroidered Front"]
+  },
+  {
+    "brand": "Bonanza Satrangi",
+    "category": "kids",
+    "name": "Kids 2PC Suit - Grey",
+    "original_price": "4,999",
+    "sale_price": "3,499",
+    "product_url": "https://beechtree.pk/products/bt3w22u80-mustard",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U80_1.jpg?v=1671535509&width=934"
+    ],
+    "details": ["2PC Set", "Comfort Wear", "Color: Grey"]
+  }
+]

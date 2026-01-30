@@ -1,0 +1,98 @@
+[
+  {
+    "brand": "Khaadi",
+    "category": "women",
+    "name": "Printed Lawn 3PC Suit - Aqua Bloom",
+    "original_price": "7,990",
+    "sale_price": "6,990",
+    "product_url": "https://beechtree.pk/products/bt3w22u145-multi",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U145_1.jpg?v=1672147676&width=934"
+    ],
+    "details": ["Unstitched 3PC", "Fabric: Lawn", "Season: Summer"]
+  },
+  {
+    "brand": "Khaadi",
+    "category": "women",
+    "name": "Embroidered Khaddar 2PC - Rust",
+    "original_price": "8,990",
+    "sale_price": "7,490",
+    "product_url": "https://beechtree.pk/products/bt3w22u145-multi",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U145_1.jpg?v=1672147676&width=934"
+    ],
+    "details": ["Unstitched 2PC", "Fabric: Khaddar", "Color: Rust"]
+  },
+  {
+    "brand": "Khaadi",
+    "category": "women (pret)",
+    "name": "Pret Kurta - Embroidered Navy",
+    "original_price": "6,490",
+    "sale_price": "5,490",
+    "product_url": "https://beechtree.pk/products/bt3w22u145-multi",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U145_1.jpg?v=1672147676&width=934"
+    ],
+    "details": ["Pret", "Regular Fit", "Color: Navy"]
+  },
+  {
+    "brand": "Khaadi",
+    "category": "women (pret)",
+    "name": "Pret Co-Ord Set - Sand",
+    "original_price": "9,990",
+    "sale_price": "8,490",
+    "product_url": "https://beechtree.pk/products/bt3w22u145-multi",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U145_1.jpg?v=1672147676&width=934"
+    ],
+    "details": ["Pret 2PC", "Fabric: Cambric", "Color: Sand"]
+  },
+  {
+    "brand": "Khaadi",
+    "category": "men",
+    "name": "Men Kurta - Off White",
+    "original_price": "5,990",
+    "sale_price": "4,990",
+    "product_url": "https://beechtree.pk/products/bt3w22u145-multi",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U145_1.jpg?v=1672147676&width=934"
+    ],
+    "details": ["Regular Fit", "Fabric: Cotton", "Color: Off White"]
+  },
+  {
+    "brand": "Khaadi",
+    "category": "men",
+    "name": "Waistcoat - Black",
+    "original_price": "8,990",
+    "sale_price": "7,990",
+    "product_url": "https://beechtree.pk/products/bt3w22u145-multi",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U145_1.jpg?v=1672147676&width=934"
+    ],
+    "details": ["Formal Wear", "Color: Black"]
+  },
+  {
+    "brand": "Khaadi",
+    "category": "kids",
+    "name": "Kids Kurta - Teal",
+    "original_price": "3,490",
+    "sale_price": "2,790",
+    "product_url": "https://beechtree.pk/products/bt3w22u145-multi",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U145_1.jpg?v=1672147676&width=934"
+    ],
+    "details": ["Kids Wear", "Comfort Fit", "Color: Teal"]
+  },
+  {
+    "brand": "Khaadi",
+    "category": "women",
+    "name": "Printed Shawl - Winter Bloom",
+    "original_price": "4,990",
+    "sale_price": "3,990",
+    "product_url": "https://beechtree.pk/products/bt3w22u145-multi",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT3W22U145_1.jpg?v=1672147676&width=934"
+    ],
+    "details": ["Fabric: Wool Blend", "Season: Winter"]
+  }
+]

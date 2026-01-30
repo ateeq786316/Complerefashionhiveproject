@@ -1,0 +1,103 @@
+[
+  {
+    "brand": "Outfitters",
+    "category": "men",
+    "name": "Slim Fit Oxford Shirt - White",
+    "original_price": "4,990",
+    "sale_price": "3,990",
+    "product_url": "https://beechtree.pk/products/bt1s23u94-pink",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT1S23U94_1.jpg?v=1678081920&width=934"
+    ],
+    "details": [
+      "Slim Fit",
+      "Fabric: Cotton Oxford",
+      "Color: White",
+      "Collar: Button Down"
+    ]
+  },
+  {
+    "brand": "Outfitters",
+    "category": "men",
+    "name": "Relaxed Fit Graphic Tee - Black",
+    "original_price": "2,490",
+    "sale_price": "1,990",
+    "product_url": "https://beechtree.pk/products/bt1s23u92-lt-mauve",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT1S23U92_1.jpg?v=1678081887&width=934"
+    ],
+    "details": ["Relaxed Fit", "Fabric: Cotton Jersey", "Color: Black"]
+  },
+  {
+    "brand": "Outfitters",
+    "category": "men",
+    "name": "Straight Fit Denim - Indigo",
+    "original_price": "5,990",
+    "sale_price": "4,490",
+    "product_url": "https://beechtree.pk/products/bt1s23u92-lt-mauve",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT1S23U92_1.jpg?v=1678081887&width=934"
+    ],
+    "details": ["Straight Fit", "Fabric: Denim", "Wash: Indigo"]
+  },
+  {
+    "brand": "Outfitters",
+    "category": "women",
+    "name": "Rib Knit Top - Beige",
+    "original_price": "3,290",
+    "sale_price": "2,790",
+    "product_url": "https://beechtree.pk/products/bt1s23u92-lt-mauve",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT1S23U92_1.jpg?v=1678081887&width=934"
+    ],
+    "details": ["Regular Fit", "Fabric: Rib Knit", "Color: Beige"]
+  },
+  {
+    "brand": "Outfitters",
+    "category": "women",
+    "name": "Wide Leg Trousers - Olive",
+    "original_price": "5,490",
+    "sale_price": "4,190",
+    "product_url": "https://beechtree.pk/products/bt1s23u92-lt-mauve",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT1S23U92_1.jpg?v=1678081887&width=934"
+    ],
+    "details": ["Wide Leg", "Fabric: Twill", "Color: Olive"]
+  },
+  {
+    "brand": "Outfitters",
+    "category": "kids",
+    "name": "Kids Hoodie - Sky Blue",
+    "original_price": "3,990",
+    "sale_price": "2,990",
+    "product_url": "https://beechtree.pk/products/bt1s23u92-lt-mauve",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT1S23U92_1.jpg?v=1678081887&width=934"
+    ],
+    "details": ["Soft Fleece", "Color: Sky Blue", "Unisex"]
+  },
+  {
+    "brand": "Outfitters",
+    "category": "women",
+    "name": "Denim Jacket - Light Blue",
+    "original_price": "7,990",
+    "sale_price": "6,490",
+    "product_url": "https://beechtree.pk/products/bt1s23u92-lt-mauve",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT1S23U92_1.jpg?v=1678081887&width=934"
+    ],
+    "details": ["Regular Fit", "Fabric: Denim", "Color: Light Blue"]
+  },
+  {
+    "brand": "Outfitters",
+    "category": "men",
+    "name": "Puffer Jacket - Charcoal",
+    "original_price": "12,990",
+    "sale_price": "9,990",
+    "product_url": "https://beechtree.pk/products/bt1s23u92-lt-mauve",
+    "image_urls": [
+      "https://beechtree.pk/cdn/shop/products/BT1S23U92_1.jpg?v=1678081887&width=934"
+    ],
+    "details": ["Warm Puffer", "Color: Charcoal", "Winter Wear"]
+  }
+]
